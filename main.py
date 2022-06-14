@@ -1,6 +1,3 @@
-#Decenas, centenas, ¡unidades!
-#Jorge Luis Zabala Medrano
-
 numero = input("numero:")
 denominacion = (len(numero))
 if denominacion == 1:
