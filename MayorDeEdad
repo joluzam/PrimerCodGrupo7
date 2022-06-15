@@ -1,7 +1,0 @@
-#Mayor de edad
-# Realizar un programa que a partir de la edad de una persona verifique o diga si es mayor de edad o no.
-edad = int(input("Hola, verificaremos si es mayor de edad ingrese su edad: ") )
-if edad > 18:
-  print( "usted es mayor de edad.")
-else:
-  print("Ustede es menor de edad.")
