@@ -70,7 +70,9 @@ print("\nPromedio:", promedio )
 
 """
 tripulantes   = [ "Maria", "Rosa", "Pedro" ]
-notas         = [ [ 4, 2.3, 4.6, 5, 4.5],  [ 4, 2.3, 5, 4, 4.5], [ 4, 2, 4.6, 6, 4.5]]
+notas         = [  [ 4, 2.3, 4.6, 5, 4.5],  
+                   [ 4, 2.3, 5, 4, 4.5], 
+                   [ 4, 2, 4.6, 6, 4.5]]
 
 if len(tripulantes) == len(notas):
     for i in range(len(notas)):
@@ -78,7 +80,3 @@ if len(tripulantes) == len(notas):
  
 else:
     print("Se ha cometido un error al ingresar datos")
-
-
-
-
